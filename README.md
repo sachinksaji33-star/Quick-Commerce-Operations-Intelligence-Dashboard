@@ -97,5 +97,3 @@ The objective of this project is to provide management with actionable insights 
 
 Business Analyst Intern
 
-Skills:
-Power BI | SQL | Excel | Python | Data Analysis
